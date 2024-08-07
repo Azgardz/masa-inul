@@ -1,3 +1,15 @@
+alert("aku ragu web iki bakal dibuka (lagi)");
+alert(
+  "tapi aku pingin ngomong kalau disaat website ini ditambahkan script ini ..."
+);
+alert("aku kangen banget nul");
+alert("boleh anggep bullshit juga");
+alert("tapi dibeberapa waktu kebelakang waktu kita pisah, aku banyak berpikir");
+alert("dan aku baru sadar tentang semua hal");
+alert(
+  "kalau terlalu banyak script webnya jadi jelek nanti ya, kalau gitu kalau mau tahu lebih detail bisa langsung hubungi aku ... :)"
+);
+
 // toggle class active
 const navbarNav = document.querySelector(".navbar-nav");
 
